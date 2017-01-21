@@ -1,13 +1,12 @@
-/* global Module */
 
 /* Magic Mirror
- * Module: HelloWorld
+ * Module: test
  *
- * By Michael Teeuw http://michaelteeuw.nl
+ * By John Brown
  * MIT Licensed.
  */
 
-Module.register("helloworld",{
+Module.register("test",{
 
 	// Default module config.
 	defaults: {
